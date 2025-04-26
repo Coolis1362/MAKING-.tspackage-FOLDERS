@@ -1,7 +1,7 @@
 packagename.tspackage # Replace It With Your Package Name.
 |
-|-------files-|
-              |
-              |
-              |
-              |- add files here
+|-------files--|
+|              |
+|              |
+|              |
+|              |- add files here
