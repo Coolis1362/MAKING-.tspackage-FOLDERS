@@ -4,3 +4,9 @@ packagename.tspackage
 |
 |---------------- TSPACKAGE ----------------|
 |                                           |------------------ .tsinfo
+|---------------- usr # The User Folder For the Package ----------------|
+|                                                                       |
+|                                                                       |------------------ package ----------------|
+|                                                                                                                   |
+|                                                                                                                   |------------------ bin # The Binary Folder For the Package
+|                                                                                                                   |------------------ scripts # The Scripts Folder For the Package
