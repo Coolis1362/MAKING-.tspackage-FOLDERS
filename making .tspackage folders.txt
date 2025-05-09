@@ -1,8 +1,6 @@
-packagename.tspackage # Replace It With Your Package Name.
+packagename.tspackage
 |
-|-------files--|
-|              |
-|              |
-|              |
-|              |- add files here
-|- README.md
+|
+|
+|---------------- TSPACKAGE ----------------|
+|                                           |------------------ .tsinfo
