@@ -8,5 +8,7 @@ packagename.tspackage
 |                                                                       |
 |                                                                       |------------------ package ----------------|
 |                                                                                                                   |
-|                                                                                                                   |------------------ bin # The Binary Folder For the Package
-|                                                                                                                   |------------------ scripts # The Scripts Folder For the Package
+|                                                                                                                   |------------------ bin # The Binary Folder For the Package ---------------- |
+|                                                                                                                   |                                                                            | ------------------- Put the Binary Files Here
+|                                                                                                                   |------------------ scripts # The Scripts Folder For the Package ---------------- |
+|                                                                                                                   |                                                                                 | ------------------- Put the Scripts Here
