@@ -17,3 +17,5 @@ C:.
             │       │   └───scripts
             │       └───packagename # Replace with your package name
             └───TEST
+
+# Just Remove The test.txt Files
