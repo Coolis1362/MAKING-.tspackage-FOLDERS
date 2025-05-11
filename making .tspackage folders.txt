@@ -1,14 +1,19 @@
-packagename.tspackage
-|
-|
-|
-|---------------- TSPACKAGE ----------------|
-|                                           |------------------ .tsinfo
-|---------------- usr # The User Folder For the Package ----------------|
-|                                                                       |
-|                                                                       |------------------ package ----------------|
-|                                                                                                                   |
-|                                                                                                                   |------------------ bin # The Binary Folder For the Package ---------------- |
-|                                                                                                                   |                                                                            | ------------------- Put the Binary Files Here
-|                                                                                                                   |------------------ scripts # The Scripts Folder For the Package ---------------- |
-|                                                                                                                   |                                                                                 | ------------------- Put the Scripts Here
+C:.
+├───packagename.tspackage
+│   ├───TSPACKAGE
+│   └───usr
+│       └───package
+│           ├───bin
+│           └───scripts
+└───subsystem
+    └───users
+        └───ADMIN_USER
+            ├───package
+            ├───packagename.tspackage
+            │   ├───TSPACKAGE
+            │   └───usr
+            │       ├───package
+            │       │   ├───bin
+            │       │   └───scripts
+            │       └───packagename # Replace with your package name
+            └───TEST
