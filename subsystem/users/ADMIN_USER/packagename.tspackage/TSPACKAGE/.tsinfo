@@ -1,0 +1,8 @@
+Package Name: packagename # Replace with your package name
+Package Version: 1.0.0 # Replace with your package version
+Package Description: A brief description of your package.
+Package Author: Your Name # Replace with your name
+Architecture: x86_64 # Replace with your architecture
+Dendpendencies: # List any dependencies your package has
+  - dependency1
+  - dependency2
